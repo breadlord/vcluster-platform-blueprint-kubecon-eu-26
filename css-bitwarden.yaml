@@ -20,7 +20,7 @@ spec:
         name: bitwarden-tls-certs
         namespace: external-secrets
         type: Secret
-      identityURL: https://vault.bitwarden.com/identity
-      organizationID: <REPLACE_ME>
-      projectID: <REPLACE_ME>
+      identityURL: https://vault.bitwarden.eu/identity
+      organizationID: aa4bc222-78a9-4bc5-8f11-b41600c6a744
+      projectID: fc25fed6-2b3a-47ca-94d2-b41600c7ecd6
 
