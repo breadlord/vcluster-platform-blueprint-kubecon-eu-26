@@ -1,6 +1,6 @@
 externalSecrets:
   secrets:
-    db-password:
+    test-secret:
       secretStoreRef: controlplane-prod
       data:
         - secretKey: password
